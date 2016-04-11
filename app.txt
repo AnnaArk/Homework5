@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Change1 from Test1
 Change2 from Test1
 =======
 Change1 from Test2
 Change2 from Test2
 >>>>>>> Test2
+=======
+Change1 from Test3
+Change2 from Test3
+>>>>>>> Test3
